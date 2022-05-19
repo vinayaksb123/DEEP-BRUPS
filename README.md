@@ -7,7 +7,7 @@
 <p>Deep brups is a tool used to check whether the user input url is valid or not.If url is valid , bruteforce directories from websites</p>
 <h2>Installation</h2>
 <p>&nbsp;</p>
-<p>user@example:~git clone</p>
+<p>user@example:~git clone https://github.com/abinavsureshss/DEEP-BRUPS</p>
 <p>user@example:~cd DEEP-BRUPS</p>
 <p>user@example:~ chmod +x</p>
 <p>user@example:~ DEEP-BRUPS.sh -d domain -w wordlist</p>
