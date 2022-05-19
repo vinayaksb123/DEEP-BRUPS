@@ -9,7 +9,7 @@
 <p>&nbsp;</p>
 <p>user@example:~git clone https://github.com/abinavsureshss/DEEP-BRUPS</p>
 <p>user@example:~cd DEEP-BRUPS</p>
-<p>user@example:~ chmod +x</p>
+<p>user@example:~ chmod +x DEEP-BRUPS.sh</p>
 <p>user@example:~ DEEP-BRUPS.sh -d domain -w wordlist</p>
 <h2>Credits</h2>
 <p>Abinav suresh :&nbsp;<a href="https://github.com/Abinavsureshss">https://github.com/Abinavsureshss</a></p>
