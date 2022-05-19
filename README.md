@@ -12,14 +12,14 @@
 <p>user@example:~ chmod +x DEEP-BRUPS.sh</p>
 <p>user@example:~ DEEP-BRUPS.sh -d domain -w wordlist</p>
 <h2>Credits</h2>
-<p>Abinav suresh :&nbsp;<a href="https://github.com/Abinavsureshss">https://github.com/Abinavsureshss</a></p>
-<p>Plabin p &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :<a href="https://github.com/plabin">https://github.com/plabin</a></p>
-<p>Vinayak S B &nbsp; &nbsp;:<a href="https://github.com/VINAYAKSB123">https://github.com/VINAYAKSB123</a></p>
+<p>Abinav  suresh :&nbsp;<a href="https://github.com/Abinavsuresh ss">https://github.com/Abinavsureshss</a></p>
+<p>Plabin  p &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :<a href="https://github.com/plabin">https://github.com/plabin</a></p>
+<p>Vinayak  S B &nbsp; &nbsp;:<a href="https://github.com/VINAYAKSB123">https://github.com/VINAYAKSB123</a></p>
 <p><br></p>
 <h2>Special thanks to</h2>
 <p>Sarath G&nbsp;<a href="https://github.com/secretguard">https://github.com/secretguard</a></p>
-<p>Princy m jose&nbsp;<a href="https://github.com/princymjose">https://github.com/princymjose</a></p>
-<p>Nicy Jose&nbsp;<a href="https://github.com/NicyJoseAJ">https://github.com/NicyJoseAJ</a></p>
+<p>Princy m  jose&nbsp;<a href="https://github.com/princymjose">https://github.com/princymjose</a></p>
+<p>Nicy  Jose&nbsp;<a href="https://github.com/NicyJoseAJ">https://github.com/NicyJoseAJ</a></p>
 <p><br></p>
 <h2>Version</h2>
-<p>Current version is 1.0</p>
+<p>Current version is  1.0</p>
