@@ -18,5 +18,6 @@ status=$(curl --write-out %{http_code} --silent --output /dev/null $fuzz)
 if [ $status == 200 -o $status == 301 ]; then
     echo $fuzz
     echo $fuzz >> "$domain"_dirs.txt
-fi
+fi 
+
 done < $wordlist
