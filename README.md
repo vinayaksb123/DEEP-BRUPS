@@ -4,7 +4,7 @@
 <p><br></p>
 <p>DEEP-BRUPS is a tool used to brute-force URIs including directories and files</p>
 <h2>usage</h2>
-<p>Deep brutes is a tool used to check whether the user input url is valid or not.If url is valid , bruteforce directories from websites</p>
+<p>Deep brups is a tool used to check whether the user input url is valid or not.If url is valid , bruteforce directories from websites</p>
 <h2>Installation</h2>
 <p>&nbsp;</p>
 <p>user@example:~git clone</p>
