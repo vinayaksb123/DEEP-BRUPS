@@ -8,7 +8,7 @@
 <h2>Installation</h2>
 <p>&nbsp;</p>
 <p>user@example:~git clone</p>
-<p>useuser@example:~cd DEEP-BRUPS</p>
+<p>user@example:~cd DEEP-BRUPS</p>
 <p>user@example:~ chmod +x</p>
 <p>user@example:~ DEEP-BRUPS.sh -d domain -w wordlist</p>
 <h2>Credits</h2>
