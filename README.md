@@ -22,4 +22,4 @@
 <p>Nicy Jose&nbsp;<a href="https://github.com/NicyJoseAJ">https://github.com/NicyJoseAJ</a></p>
 <p><br></p>
 <h2>Version</h2>
-<p>Current version is 1.0</p>
+<p>Current version  1.0</p>
